@@ -1,3 +1,4 @@
+-- Adding a comment to test change detection
 --
 -- PostgreSQL database dump
 --
